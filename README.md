@@ -66,7 +66,9 @@ shader Profile : SelfTaughtDeveloper {
 </tr>
 </table>
 
----
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=unity,vscode,visualstudio,github" alt="Tools" />
+
 
 ### Currently Learning
 <table>
@@ -85,10 +87,6 @@ shader Profile : SelfTaughtDeveloper {
     </td>
 </tr>
 </table>
-
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=unity,vscode,visualstudio,github" alt="Tools" />
 
 </div>
 
