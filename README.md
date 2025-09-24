@@ -8,7 +8,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms1NHY1eTIwNGFqZXEwMXlkOG1wbTE3YXludnQ4MTJ6NTIwdWFnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
 ---
@@ -115,7 +115,9 @@
 </div>
 
 ---
-
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpobm5saDJzNXIydmhpdnRrY3hyMTQ2MXltbHlvNGRicTFocG10NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bezxCUK2D2TuBCJ7r5/giphy.gif" width="100" alt="Coding GIF"/>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=To0TurNT&style=for-the-badge&color=A855F7" alt="Profile Views"/>
 </div>
