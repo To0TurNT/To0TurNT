@@ -134,8 +134,9 @@ shader Profile : SelfTaughtDeveloper {
 
 <div align="center">
 
-[![Booth](https://img.shields.io/badge/Booth-7289DA?style=for-the-badge&logoColor=white)](https://turnt.booth.pm)
+[![Booth](https://img.shields.io/badge/BOOTH-FF4757?style=for-the-badge&logoColor=white)](https://turnt.booth.pm)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@To0TurNT69)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/turnt_)
 
 </div>
 
