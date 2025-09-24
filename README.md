@@ -97,7 +97,7 @@
 - Started with **Over-Rendering** then started adding **HSV Hue Shift**
 - Next thing you know your on [Shadertoy](https://www.shadertoy.com) writing GLSL watching [BigWIngs](https://www.youtube.com/@TheArtofCodeIsCool)
 - Powered by **coffee** and **curiosity**
-- Love **"optimizing"** shaders for VR platforms
+- Enjoy **"optimizing"** shaders for VR platforms
 - Dream project: Create a **procedural universe** generator
 - **Easter egg hunter** in games and code
 
