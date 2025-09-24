@@ -1,11 +1,8 @@
 # 🎆 Hey there! I'm [To0TurNT]
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Self-Taught+Shader+Developer;Creating+Visual+Magic+with+Code;HLSL+%7C+GLSL+%7C+ShaderLab+%7C+C%23" alt="Typing SVG" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
@@ -13,7 +10,6 @@
 ---
 
 ## About Me
-
 **Self-taught shader developer** passionate about creating stunning visual effects and interactive experiences  
 **Always experimenting** with new techniques and pushing the boundaries of real-time graphics  
 **Love to learn** and share knowledge with the community  
@@ -23,7 +19,7 @@
 ## Tech Stack & Skills
 
 <div align="center">
-
+  
 ### Core Languages & Technologies
 <table>
 <tr>
@@ -49,7 +45,6 @@
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=unity,vscode,visualstudio,github" alt="Tools" />
 
-
 ### Currently Learning
 <table>
 <tr>
@@ -73,7 +68,6 @@
 ---
 
 ## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=To0TurNT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A855F7&text_color=C9D1D9&title_color=A855F7" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=To0TurNT&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" width="48%"/>
@@ -82,7 +76,6 @@
 ---
 
 ## Learning Journey
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=To0TurNT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
@@ -90,13 +83,11 @@
 ### Current Focus Areas
 - **Python**: Diving into scripting and automation
 - **Web Development**: Learning HTML, CSS, and JavaScript fundamentals
-- **Advanced Shaders**: Experimenting with compute shaders and ray tracing
+- **Advanced Shaders**: Experimenting with compute shaders and raymarching
 
 ---
 
-
 ## Fun Facts
-
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 - Started with **Over-Rendering** then started adding **HSV Hue Shift**
@@ -111,13 +102,12 @@
 ---
 
 ## Let's Connect!
-
 <div align="center">
-
+  
 [![Booth](https://img.shields.io/badge/BOOTH-FF4757?style=for-the-badge&logoColor=white)](https://turnt.booth.pm)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@To0TurNT69)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/turnt_)
-
+  
 </div>
 
 ---
@@ -125,7 +115,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=To0TurNT&style=for-the-badge&color=A855F7" alt="Profile Views"/>
 </div>
-
 <div align="center">
   <h3> "Code is poetry written in logic, shaders are poetry written in light" </h3>
 </div>
