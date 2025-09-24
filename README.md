@@ -14,26 +14,6 @@
 
 ## About Me
 
-```glsl
-shader Profile : SelfTaughtDeveloper {
-    Properties {
-        _Name ("Name", String) = "To0TurNT"
-        _Role ("Role", String) = "Shader Developer"
-        _Status ("Status", String) = "Always Learning"
-        _Passion ("Passion", String) = "Visual Programming"
-    }
-    
-    SubShader {
-        Tags { "Queue"="Foreground" "RenderType"="Awesome" }
-        
-        Pass {
-            // Transforming ideas into visual experiences
-            // One shader at a time
-        }
-    }
-}
-```
-
 **Self-taught shader developer** passionate about creating stunning visual effects and interactive experiences  
 **Always experimenting** with new techniques and pushing the boundaries of real-time graphics  
 **Love to learn** and share knowledge with the community  
