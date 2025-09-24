@@ -119,7 +119,7 @@ shader Profile : SelfTaughtDeveloper {
 
 ## Fun Facts
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 - Started with **Over-Rendering** then started adding **HSV Hue Shift**
 - Next thing you know your on [Shadertoy](https://www.shadertoy.com) writing GLSL watching [BigWIngs](https://www.youtube.com/@TheArtofCodeIsCool)
