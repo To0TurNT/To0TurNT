@@ -4,7 +4,7 @@
   
 ---
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=4000&startDelay=4000&color=A855F7&center=true&vCenter=true&width=940&lines=Self-Taught+Shader+Developer;Creating+Visual+Magic+with+Code;HLSL+%7C+GLSL+%7C+ShaderLab+%7C+C%23" alt="Skills Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=4000&startDelay=8000&color=A855F7&center=true&vCenter=true&width=940&lines=Self-Taught+Shader+Developer;Creating+Visual+Magic+with+Code;HLSL+%7C+GLSL+%7C+ShaderLab+%7C+C%23" alt="Skills Typing SVG" />
 </div>
 <br/>
 <div align="center">
