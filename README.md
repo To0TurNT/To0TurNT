@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=4000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+To0TurNT;Hey+there!+I'm+TurNT_;Hey+there!+I'm+To0TurNT69" alt="Aliases Typing SVG" />
   <br/>
   
