@@ -8,7 +8,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/codin.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/codin.gif" width="400" alt="Gif"/>
 </div>
 
 ---
@@ -32,11 +32,11 @@
         <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL"/>
+        <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/icons/glsl.svg" width="48" height="48" alt="GLSL"/>
         <br>GLSL
     </td>
     <td align="center" width="96">
-        <img src="https://timgjones.gallerycdn.vsassets.io/extensions/timgjones/hlsltoolsforvisualstudio/1.1.304/1648221933209/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Unity"/>
+        <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/icons/hlsl.svg" width="48" height="48" alt="HLSL"/>
         <br>HLSL
     </td>
     <td align="center" width="96">
@@ -92,7 +92,7 @@
 ---
 
 ## Fun Facts
-<img align="right" src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/cookin.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/cookin.gif" width="300" alt="Gif"/>
 
 - Started with **Over-Rendering** then started adding **HSV Hue Shift**
 - Next thing you know your on [Shadertoy](https://www.shadertoy.com) writing GLSL watching [BigWIngs](https://www.youtube.com/@TheArtofCodeIsCool)
@@ -116,7 +116,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/lookin.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/lookin.gif" width="100" alt="Gif"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=To0TurNT&style=for-the-badge&color=A855F7" alt="Profile Views"/>
