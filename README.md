@@ -8,7 +8,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/codin.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/codin.gif" width="400" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 ---
 
 ## Fun Facts
-<img align="right" src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/cookin.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/cookin.gif" width="300" />
 
 - Started with **Over-Rendering** then started adding **HSV Hue Shift**
 - Next thing you know your on [Shadertoy](https://www.shadertoy.com) writing GLSL watching [BigWIngs](https://www.youtube.com/@TheArtofCodeIsCool)
@@ -116,7 +116,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/lookin.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/gifs/lookin.gif" width="100" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=To0TurNT&style=for-the-badge&color=A855F7" alt="Profile Views"/>
