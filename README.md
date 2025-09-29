@@ -36,7 +36,7 @@
         <br>GLSL
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/icons/hlsl.svg" width="48" height="48" alt="HLSL"/>
+        <img src="https://raw.githubusercontent.com/To0TurNT/To0TurNT/master/assets/icons/hlsl.png" width="48" height="48" alt="HLSL"/>
         <br>HLSL
     </td>
     <td align="center" width="96">
