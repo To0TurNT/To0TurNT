@@ -4,7 +4,7 @@
   
 ---
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&startDelay=4000&pause=4000&duration=4000&color=A855F7&center=true&vCenter=true&width=940&lines=Self-Taught+Shader+Developer;Creating+Visual+Magic+with+Code;HLSL+%7C+GLSL+%7C+ShaderLab+%7C+C%23" alt="Skills Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&startDelay=4000&pause=4000&duration=4000&color=A855F7&center=true&vCenter=true&width=940&lines=Self-Taught+Shader+Developer;Creating+Visual+Magic+with+Code;HLSL+%7C+GLSL+%7C+ShaderLab+%7C+C%23+%7C+Python+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Skills Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -14,9 +14,9 @@
 ---
 
 ## About Me
-**Self-taught shader developer** passionate about creating stunning visual effects and interactive experiences  
-**Always experimenting** with new techniques and pushing the boundaries of real-time graphics  
-**Love to learn** and share knowledge with the community  
+I spend more time breaking shaders than writing them—**and that's how I learn**  
+Usually just tweaking things until they look interesting (or break in a useful way)  
+**If** it compiles on the first try, **something probably went wrong**  
 
 ---
 
@@ -24,48 +24,22 @@
 
 <div align="center">
   
-### Core Languages & Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="assets/icons/glsl.svg" width="48" height="48" alt="GLSL"/>
-        <br>GLSL
-    </td>
-    <td align="center" width="96">
-        <img src="assets/icons/hlsl.png" width="48" height="48" alt="HLSL"/>
-        <br>HLSL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="ShaderLab"/>
-        <br>ShaderLab
-    </td>
-</tr>
-</table>
+### Shader Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  <img src="assets/icons/glsl.svg" width="48" height="48" alt="GLSL"/>
+  <img src="assets/icons/hlsl.png" width="48" height="48" alt="HLSL"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="ShaderLab"/>
+</p>
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=unity,vscode,visualstudio,github" alt="Tools" />
+[![Tools & Platforms](https://skillicons.dev/icons?i=unity,vscode,visualstudio,github)](https://skillicons.dev)
 
 ### Currently Learning
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-</tr>
-</table>
+[![Currently Learning](https://skillicons.dev/icons?i=cpp,threejs)](https://skillicons.dev)
 
 </div>
 
@@ -85,26 +59,27 @@
 </div>
 
 ### Current Focus Areas
-- **Python**: Diving into scripting and automation
-- **Web Development**: Learning HTML, CSS, and JavaScript fundamentals
-- **Advanced Shaders**: Experimenting with compute shaders and raymarching
+- **C++**: [Temmie](https://github.com/Temmielol) said I should learn C++, so I'm learning C++
+- **Three.js**: 3D web rendering, need I say more?
 
 ---
 
 ## Fun Facts
 <img align="right" src="assets/gifs/cookin.gif" width="300" alt="Cooking up shaders"/>
 
-- Started with **Over-Rendering** then started adding **HSV Hue Shift**
-- Next thing you know you're on [Shadertoy](https://www.shadertoy.com) writing GLSL watching [BigWings](https://www.youtube.com/@TheArtofCodeIsCool)
-- Powered by **coffee** and **curiosity**
-- Enjoy **"optimizing"** shaders for VR platforms
-- Dream project: Create a **procedural universe** generator
-- **Easter egg hunter** in games and code
+- It all started with experimenting with over-rendering and eventually led me down the rabbit hole of HSV hue shift
+- Before I knew it, I was writing GLSL on [Shadertoy](https://www.shadertoy.com) while learning from [BigWings](https://www.youtube.com/@TheArtofCodeIsCool)
+- Powered by **coffee**, **curiosity**, and **far** too many late nights
 
 <br clear="right"/>
 
 ---
+<div align="center">
+  <h3> "Because of the nature of Moore's law, anything that an extremely clever graphics programmer can do at one point can be replicated by a merely competent programmer some number of years later." </h3>
+  <h4>— John Carmack</h4>
+</div>
 
+---
 ## Let's Connect!
 <div align="center">
   
@@ -113,16 +88,11 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/turnt_)
   
 </div>
-
----
 <div align="center">
   <img src="assets/gifs/lookin.gif" width="100" alt="Looking around"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=To0TurNT&style=for-the-badge&color=A855F7" alt="Profile Views"/>
-</div>
-<div align="center">
-  <h3> "Code is poetry written in logic, shaders are poetry written in light" </h3>
 </div>
 
 ---
