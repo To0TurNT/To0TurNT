@@ -47,8 +47,8 @@ Usually just tweaking things until they look interesting (or break in a useful w
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=To0TurNT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A855F7&text_color=C9D1D9&title_color=A855F7" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=To0TurNT&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=A855F7&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=To0TurNT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A855F7&text_color=C9D1D9&title_color=A855F7" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=To0TurNT&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=A855F7&layout=compact" alt="Top Languages" width="48%"/>
 </div>
 
 ---
