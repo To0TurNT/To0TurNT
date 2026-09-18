@@ -55,7 +55,7 @@ Usually just tweaking things until they look interesting (or break in a useful w
 
 ## Learning Journey
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=To0TurNT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph" width="100%"/>
+  <img src="dist/activity-graph.svg" alt="Activity Graph" width="100%"/>
 </div>
 
 ### Current Focus Areas
